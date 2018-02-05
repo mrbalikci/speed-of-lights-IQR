@@ -6,4 +6,13 @@
  * These measurements were used to estimate the speed of light.
  * The datafile contains the estimated speed of light for 66 trials.
  
- 
+ ## IQR -- Interquartile Range 
+
+ * Filtered Outliers from the `Speed of Light` test data
+ * Found the upper and lower boundries 
+ * Calculated `max` and `min` valus 
+
+ ## Tools Used 
+ * JavaScript
+ * Plot.Ly tool
+ * HTML 
